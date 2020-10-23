@@ -6,14 +6,43 @@ body{
 }
 header{
     background-color: rosybrown;
+    padding-top: 20px;
+    padding-bottom:20px;
 }
 
 .container {
-    background-color: mistyrose;
-    width: 300px;
+    width: 550px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    align-items: center;
 }
+
+.name h1 {
+    font-weight: nomal;
+    font-size: 27px;
+    margin: 0;
+}
+.name ul {
+    font-weight: nomal;
+    font-size: 15px;
+    margin: 0;
+    margin-bottom: 15px;
+    list-style-type: none;
+}
+
+.cat img {
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: double;
+    border-color: white;
+}
+
+
+.skill ul {
+    list-style-type: none;
+}
+
 h1{
     color: maroon;
 }
