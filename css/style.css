@@ -10,12 +10,24 @@ header{
     padding-bottom:20px;
 }
 
+h1{
+    color: maroon;
+    font-size: 20px;
+}
+h2{
+    color: darkred;
+    font-size: 20px;
+}
 .container {
     width: 550px;
     margin-left: auto;
     margin-right: auto;
     display: flex;
     align-items: center;
+}
+
+.name ul {
+    color: brown;
 }
 
 .name h1 {
@@ -38,14 +50,50 @@ header{
     border-color: white;
 }
 
+.plof {
+    background-color: lightpink;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.plof p {
+    color: gray;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-left: 10%;
+}
+
+.skill {
+    background-color: lightpink;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 50px;
+}
 
 .skill ul {
+    color: gray;
     list-style-type: none;
+    margin-left: 5%;
+    margin-bottom: 15px;
+    font-weight: lighter;
+    font-size: 17px;
 }
 
-h1{
-    color: maroon;
+.career {
+    background-color: lightpink;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 50px;
 }
-h2{
-    color: darkred;
+
+.career p{
+    color: gray;
+    list-style-type: none;
+    margin-left: 9%;
+    font-size: 15px;
 }
