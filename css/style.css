@@ -6,8 +6,9 @@ body{
 }
 header{
     background-color: rosybrown;
-    padding-top: 20px;
-    padding-bottom:20px;
+    padding-top: auto;
+    padding-bottom:auto;
+    width: 100%;
 }
 
 h1{
@@ -53,8 +54,8 @@ h2{
 .plof {
     background-color: lightpink;
     border-radius: 30px;
-    margin-left: 5%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 30px;
     margin-bottom: 20px;
 }
@@ -62,15 +63,15 @@ h2{
 .plof p {
     color: gray;
     font-weight: lighter;
-    font-size: 15px;
+    font-size: 14px;
     margin-left: 10%;
 }
 
 .skill {
     background-color: lightpink;
     border-radius: 30px;
-    margin-left: 5%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 50px;
 }
 
@@ -86,8 +87,8 @@ h2{
 .career {
     background-color: lightpink;
     border-radius: 30px;
-    margin-left: 5%;
-    margin-right: 10%;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 50px;
 }
 
