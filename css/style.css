@@ -1,10 +1,12 @@
 .container{
     background-image: url("../img/zentaihaikei.jpg");
+    color: dimgray;
 }
 
 .container header{
     width: 100%;
     background-image: url("../img/haikei5.jpg");
+    text-align: center;
 }
 
 .container img{
@@ -13,6 +15,17 @@
     border-color: powderblue;
 }
 
+h1{
+    color: mediumaquamarine;
+    font-family: serif;
+}
+
 .name ul{
     list-style-type: none;
+}
+
+.container h2 {
+    color: mediumseagreen;
+    font-size: 150%;
+    font-family: serif;
 }
