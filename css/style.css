@@ -29,3 +29,15 @@ h1{
     font-size: 150%;
     font-family: serif;
 }
+
+.name{
+    font-size: 15px;
+}
+
+.plof tr{
+    color: gray;
+}
+
+.plof thead{
+    color: teal;
+}
