@@ -36,8 +36,6 @@ h1{
 
 .plof tr{
     color: gray;
+    font-size: 15px;
 }
 
-.plof thead{
-    color: teal;
-}
