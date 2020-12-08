@@ -39,3 +39,9 @@ h1{
     font-size: 15px;
 }
 
+.career hr.style12 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
